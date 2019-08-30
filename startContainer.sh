@@ -1,0 +1,1 @@
+docker run -it --name wololo --rm test/webpack-mem
