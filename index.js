@@ -1,4 +1,4 @@
-// const webpack = require('webpack')
+const webpack = require('webpack')
 setInterval(() => {
     console.log("Doing nothing :)")
 }, 2000)
